@@ -40,7 +40,3 @@ So how do you use it ? I'll explain step by step.
 
 **Note:** If you're powering the device with a dedicated battery, use the **3V3** pin instead of 5V.  
 ⚠️ Some OLED/SD modules don't work reliably at 3.3V — test first!
-
-For people who want to know more about how does the code work, I explained briefly.
-
-
