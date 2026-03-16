@@ -26,6 +26,7 @@ So how do you use it ? I'll explain step by step.
 -Depending on the video you want to convert you'll be asked if the input video is monochrome or colorful. For badd apple like videos choose monochrome.
 
 -CONNECTIONS:
+'''bash
   WEMOS        OLED         SD CARD MODULE
   D1           SCL              ---
   D2           SDA              ---
@@ -34,7 +35,8 @@ So how do you use it ? I'll explain step by step.
   D7           ---              MOSI
   D8           ---              CS
   GND          GND              GND
-  5V           VCC              VCC          
+  5V           VCC              VCC       
+'''
   (if ur using a dedicated battery you'll have to use the 3V3 pin but please consider that some     components doesn't work in that voltage range)
 
 For people who want to know more about how does the code work, I explained briefly.
