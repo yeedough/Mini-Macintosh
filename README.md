@@ -4,7 +4,7 @@ This repository includes the code, step and stl files used in the project. To ex
 
 I built this version of the device to work on a WEMOS D1 ESP8266 board and used the following components:
 
-  mini sd card module,
+  Mini SD card module,
   1.3" 128x64 OLED display (ssh1106),
   WEMOS D1 Mini.
 
